@@ -1,0 +1,13 @@
+Buenas Tardes Guillo, en el siguiente documento planteo lo que solicita el usuario, para empezar el programa sera un programa contable:
+el programa debe hacer las siguientes acciones:
+* debe de poder agregrar los productos de la misma manera asignarles un condigo de barra
+* debe manejar la caja es decir, debe indicar cuanto se hace el dia con cierre parcial y cierre de caja o dia, para inidicar la contabilidad diaria
+* el programa debe alertar cuando el stock del producto se este agotando.
+* el programa debe mandar una copia del cierre atravez del correo al cerrar caja todo los dias.
+* al mes debe enviar un informe de las ventas realizadas.
+
+si hay mas requerimientos,al usuario se le dara la otra semana para poder organziar, agregar o modificar el programa
+
+saludos 
+
+"jonathan barrios"
